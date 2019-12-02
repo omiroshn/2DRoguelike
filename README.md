@@ -19,7 +19,7 @@ This project was created in Unity 5.6.7f1.
 
 -----
 ## 【Video Gameplay】
-https://www.youtube.com/watch?v=-g6xa7grA7w
+https://youtu.be/4Z80qzfSQwY
 
 -----
 **README.md 2019/02/12**  
